@@ -1,3 +1,4 @@
+package global;
 
 public class plaything {
     int id;
