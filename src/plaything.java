@@ -1,4 +1,4 @@
-package global;
+package src;
 
 public class plaything {
     int id;
